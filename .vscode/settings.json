@@ -1,0 +1,6 @@
+{
+  "[git-commit]": {
+    "editor.fontFamily": "D2Coding",
+    "editor.rulers": [50, 72]
+  }
+}
