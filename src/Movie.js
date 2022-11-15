@@ -9,8 +9,8 @@ Movie.propTypes = {
   poster: PropTypes.string.isRequired,
 };
 
-function Movie(props) {
-  return <div></div>;
+function Movie({ id, year, title, summary, poster }) {
+  return <h4>{title}</h4>;
 }
 
 export default Movie;
